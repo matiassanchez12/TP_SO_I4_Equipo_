@@ -1,3 +1,7 @@
+Matias Sanchez
+Limachi Ramos Sergio Ariel
+Guzman Eric Alejandro
+
 a.en testing azul.
 b.en desarrollo amarillo.
 c.en el main el background es blanco.
