@@ -6,4 +6,11 @@ a.en testing azul.
 b.en desarrollo amarillo.
 c.en el main el background es blanco.
 d.los 2.
-
+e. Gamma y beta
+f. Mostraba un error al hacer "git push"
+g. Lo solucionamos usando "git push -f" y las consecuencia
+es que los datos de alfa y de beta son pisados por los de gama
+h. Se suben los datos al repositorio pisando los datos que estaban
+anteriormente.
+i. Cada integrando debe antes de hacer el push, un pull para actualizar los datos
+luego agregar los parrafos y por ultimos el push.
